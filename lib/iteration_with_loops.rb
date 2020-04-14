@@ -18,8 +18,8 @@ while row_index < src.count  do
           ele_index += 1 
         end 
         
-        mtr << min_temp
-        row_index += 1
+    mtr << min_temp
+    row_index += 1
   end 
 
   mtr
